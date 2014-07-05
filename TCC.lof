@@ -1,0 +1,12 @@
+\select@language {brazil}
+\select@language {brazil}
+\select@language {english}
+\select@language {brazil}
+\select@language {english}
+\select@language {brazil}
+\contentsline {figure}{\numberline {1}{\ignorespaces Uma rede aleat\IeC {\'o}ria com 200 v\IeC {\'e}rtices e 193 arestas. Nota-se a presen\IeC {\c c}a de um grande componente, alguns v\IeC {\'e}rtices e pequenos componentes na parte externa e a aus\IeC {\^e}ncia de hubs [Imagem de STROGATZ, 2001, NATURE]\relax }}{14}{figure.caption.4}
+\contentsline {figure}{\numberline {2}{\ignorespaces Representa\IeC {\c c}\IeC {\~a}o de uma rede mundo-pequeno com topologia em anel. Essa rede possui 24 n\IeC {\'o}s e cada n\IeC {\'o} est\IeC {\'a} conectado a seus tr\IeC {\^e}s vizinhos mais pr\IeC {\'o}ximos. Fonte: [Imagem de STROGATZ, 2001, NATURE].\relax }}{15}{figure.caption.5}
+\contentsline {figure}{\numberline {3}{\ignorespaces Um grafo livre de escala, constru\IeC {\'\i }do com 200 v\IeC {\'e}rtices e 199 arestas. A constru\IeC {\c c}\IeC {\~a}o deu preferencia aos n\IeC {\'o}s com maior grau de v\IeC {\'e}rtice para liga\IeC {\c c}\IeC {\~a}o com novos n\IeC {\'o}s. Assim, n\IeC {\'o}s com maior grau de v\IeC {\'e}rtice tenderam a ficar com mais liga\IeC {\c c}\IeC {\~o}es e n\IeC {\'o}s com menor grau de v\IeC {\'e}rtice tenderam a ficar com menos liga\IeC {\c c}\IeC {\~o}es. Fonte: [Imagem de STROGATZ, 2001, NATURE].\relax }}{16}{figure.caption.6}
+\contentsline {figure}{\numberline {4}{\ignorespaces Uma rede pequena com tr\IeC {\^e}s comunidades (circuladas pelos tracejados). Fonte: [Community Detection in Graphs, Santo Fortunato]\relax }}{20}{figure.caption.7}
+\contentsline {figure}{\numberline {5}{\ignorespaces Parti\IeC {\c c}\IeC {\~a}o de grafo com duas comunidades de tamanho igual. A linha tracejada representa a separa\IeC {\c c}\IeC {\~a}o entre as comunidades com uma quantidade m\IeC {\'\i }nima de arestas interligando-as. Fonte: [Community Detection in Graphs, Santo Fortunato]\relax }}{21}{figure.caption.8}
+\contentsline {figure}{\numberline {6}{\ignorespaces Arquitetura do plano de solu\IeC {\c c}\IeC {\~a}o adotado.\relax }}{26}{figure.caption.9}

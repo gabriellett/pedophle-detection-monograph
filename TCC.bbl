@@ -1,0 +1,21 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.2 }
+
+\bibitem[Dyson 1979]{dyson_disturbing_1979}
+\abntrefinfo{Dyson}{DYSON}{1979}
+{DYSON, F. \textbf{Disturbing the Universe}. Basic Books, 1979.  (Basic Books
+  50 years).
+ISBN 9780465016778. Dispon{\'\i}vel em:
+  \url{http://books.google.com.br/books?id=RHzoMeU2bxsC}.}
+
+\bibitem[Heath 1921]{heath1921history}
+\abntrefinfo{Heath}{HEATH}{1921}
+{HEATH, T. \textbf{A History of Greek Mathematics}. Clarendon Press, 1921.  (A
+  History of Greek Mathematics, v. 1). Dispon{\'\i}vel em:
+  \url{http://books.google.com.br/books?id=h4JsAAAAMAAJ}.}
+
+\end{thebibliography}
